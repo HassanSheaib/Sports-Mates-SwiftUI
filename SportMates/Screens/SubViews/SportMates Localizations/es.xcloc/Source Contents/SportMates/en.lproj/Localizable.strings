@@ -1,0 +1,321 @@
+/* No comment provided by engineer. */
+"" = "";
+
+/* No comment provided by engineer. */
+" %lld joined from %lld," = " %lld joined from %lld,";
+
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* No comment provided by engineer. */
+"%@ Game Info" = "%@ Game Info";
+
+/* No comment provided by engineer. */
+"%@, at %@." = "%@, at %@.";
+
+/* No comment provided by engineer. */
+"%lld from %lld, For %@." = "%lld from %lld, For %@.";
+
+/* No comment provided by engineer. */
+"%lld joined from %lld OR %lld," = "%lld joined from %lld OR %lld,";
+
+/* No comment provided by engineer. */
+"%lld years" = "%lld years";
+
+/* No comment provided by engineer. */
+"Age" = "Age";
+
+/* No comment provided by engineer. */
+"Age %lld -> %lld" = "Age %lld -> %lld";
+
+/* No comment provided by engineer. */
+"Age Not Valid" = "Age Not Valid";
+
+/* No comment provided by engineer. */
+"All game data will be lost!! You can Create a game again from the games screen." = "All game data will be lost!! You can Create a game again from the games screen.";
+
+/* No comment provided by engineer. */
+"All Good " = "All Good ";
+
+/* No comment provided by engineer. */
+"Already Created Game" = "Already Created Game";
+
+/* No comment provided by engineer. */
+"Available Games" = "Available Games";
+
+/* No comment provided by engineer. */
+"Can't Join Game" = "Can't Join Game";
+
+/* No comment provided by engineer. */
+"Cancel" = "Cancel";
+
+/* No comment provided by engineer. */
+"Cannot Create Game without setting a location!!" = "Cannot Create Game without setting a location!!";
+
+/* No comment provided by engineer. */
+"Chat" = "Chat";
+
+/* No comment provided by engineer. */
+"City" = "City";
+
+/* No comment provided by engineer. */
+"Code" = "Code";
+
+/* No comment provided by engineer. */
+"Country" = "Country";
+
+/* No comment provided by engineer. */
+"Create Game" = "Create Game";
+
+/* No comment provided by engineer. */
+"Day:" = "Day:";
+
+/* No comment provided by engineer. */
+"Delete" = "Delete";
+
+/* No comment provided by engineer. */
+"Delete Game" = "Delete Game";
+
+/* No comment provided by engineer. */
+"Do not join games that are very late." = "Do not join games that are very late.";
+
+/* No comment provided by engineer. */
+"Drag left to delete or leave game" = "Drag left to delete or leave game";
+
+/* No comment provided by engineer. */
+"Duration:" = "Duration:";
+
+/* No comment provided by engineer. */
+"Error has occured" = "Error has occured";
+
+/* No comment provided by engineer. */
+"Game by" = "Game by";
+
+/* No comment provided by engineer. */
+"Game created now wait for other players to join" = "Game created now wait for other players to join";
+
+/* No comment provided by engineer. */
+"Game Joined" = "Game Joined";
+
+/* No comment provided by engineer. */
+"Game Location" = "Game Location";
+
+/* No comment provided by engineer. */
+"Game Purpose & Players Level" = "Game Purpose & Players Level";
+
+/* No comment provided by engineer. */
+"Game Saved" = "Game Saved";
+
+/* No comment provided by engineer. */
+"Game Time & Date" = "Game Time & Date";
+
+/* No comment provided by engineer. */
+"Game type and Duration" = "Game type and Duration";
+
+/* No comment provided by engineer. */
+"Game:" = "Game:";
+
+/* No comment provided by engineer. */
+"Games" = "Games";
+
+/* No comment provided by engineer. */
+"Games:" = "Games:";
+
+/* No comment provided by engineer. */
+"Gender" = "Gender";
+
+/* No comment provided by engineer. */
+"Gender Info" = "Gender Info";
+
+/* No comment provided by engineer. */
+"Gender Matter?" = "Gender Matter?";
+
+/* No comment provided by engineer. */
+"Gender Not set" = "Gender Not set";
+
+/* No comment provided by engineer. */
+"Go to settings?" = "Go to settings?";
+
+/* No comment provided by engineer. */
+"Gouvernate" = "Gouvernate";
+
+/* No comment provided by engineer. */
+"Guide" = "Guide";
+
+/* No comment provided by engineer. */
+"Hour:" = "Hour:";
+
+/* No comment provided by engineer. */
+"How many player you got" = "How many player you got";
+
+/* No comment provided by engineer. */
+"I Got %lld" = "I Got %lld";
+
+/* No comment provided by engineer. */
+"Ideal:" = "Ideal:";
+
+/* No comment provided by engineer. */
+"In range:" = "In range:";
+
+/* No comment provided by engineer. */
+"Join Game" = "Join Game";
+
+/* No comment provided by engineer. */
+"Join The Game!" = "Join The Game!";
+
+/* No comment provided by engineer. */
+"KM, On:" = "KM, On:";
+
+/* No comment provided by engineer. */
+"Leave" = "Leave";
+
+/* No comment provided by engineer. */
+"Leave Game" = "Leave Game";
+
+/* No comment provided by engineer. */
+"Let's GO" = "Let's GO";
+
+/* No comment provided by engineer. */
+"Make sure to check that the game location is a Sports center." = "Make sure to check that the game location is a Sports center.";
+
+/* No comment provided by engineer. */
+"Max age:" = "Max age:";
+
+/* No comment provided by engineer. */
+"Min age:" = "Min age:";
+
+/* No comment provided by engineer. */
+"Min:" = "Min:";
+
+/* No comment provided by engineer. */
+"Missing Location!" = "Missing Location!";
+
+/* No comment provided by engineer. */
+"My Games" = "My Games";
+
+/* No comment provided by engineer. */
+"name" = "name";
+
+/* No comment provided by engineer. */
+"Name" = "Name";
+
+/* No comment provided by engineer. */
+"Name Not Valid" = "Name Not Valid";
+
+/* No comment provided by engineer. */
+"Name Should be at leaset 6 charchter long" = "Name Should be at leaset 6 charchter long";
+
+/* No comment provided by engineer. */
+"No Available %@ games" = "No Available %@ games";
+
+/* No comment provided by engineer. */
+"No Available Games" = "No Available Games";
+
+/* No comment provided by engineer. */
+"Number of Players" = "Number of Players";
+
+/* No comment provided by engineer. */
+"Number Verification" = "Number Verification";
+
+/* No comment provided by engineer. */
+"Ok" = "Ok";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"On Map Location" = "On Map Location";
+
+/* No comment provided by engineer. */
+"Phone Field Empty" = "Phone Field Empty";
+
+/* No comment provided by engineer. */
+"Phone Number" = "Phone Number";
+
+/* No comment provided by engineer. */
+"Players ages" = "Players ages";
+
+/* No comment provided by engineer. */
+"Players Level:" = "Players Level:";
+
+/* No comment provided by engineer. */
+"Playing For:" = "Playing For:";
+
+/* No comment provided by engineer. */
+"Please choose your gender" = "Please choose your gender";
+
+/* No comment provided by engineer. */
+"Please Enter a phone number" = "Please Enter a phone number";
+
+/* No comment provided by engineer. */
+"Please enter the 6 digit code you recived" = "Please enter the 6 digit code you recived";
+
+/* No comment provided by engineer. */
+"Please enter your age" = "Please enter your age";
+
+/* No comment provided by engineer. */
+"Please enter your number to verify your account, you will recive an sms shortly." = "Please enter your number to verify your account, you will recive an sms shortly.";
+
+/* No comment provided by engineer. */
+"Please make sure be there on time!!!" = "Please make sure be there on time!!!";
+
+/* No comment provided by engineer. */
+"Please make sure to enter a valid name." = "Please make sure to enter a valid name.";
+
+/* No comment provided by engineer. */
+"S p o r t s   M a t e s " = "S p o r t s   M a t e s ";
+
+/* No comment provided by engineer. */
+"Send" = "Send";
+
+/* No comment provided by engineer. */
+"Set Location On Map" = "Set Location On Map";
+
+/* No comment provided by engineer. */
+"set your Age" = "set your Age";
+
+/* No comment provided by engineer. */
+"Sign Out" = "Sign Out";
+
+/* No comment provided by engineer. */
+"The App need access to your current location!!" = "The App need access to your current location!!";
+
+/* No comment provided by engineer. */
+"The Game is Full" = "The Game is Full";
+
+/* No comment provided by engineer. */
+"Type here" = "Type here";
+
+/* No comment provided by engineer. */
+"Verify your Number" = "Verify your Number";
+
+/* No comment provided by engineer. */
+"Year of birth" = "Year of birth";
+
+/* No comment provided by engineer. */
+"You already have a game scheduled for %@ you can create game for a different date!!" = "You already have a game scheduled for %@ you can create game for a different date!!";
+
+/* No comment provided by engineer. */
+"You Already joined this Game" = "You Already joined this Game";
+
+/* No comment provided by engineer. */
+"You are already in A game on %@ " = "You are already in A game on %@ ";
+
+/* No comment provided by engineer. */
+"you are not in Any Game Chatroom!!" = "you are not in Any Game Chatroom!!";
+
+/* No comment provided by engineer. */
+"You Can Enjoy our app shortly" = "You Can Enjoy our app shortly";
+
+/* No comment provided by engineer. */
+"You can join the game again from the games list page." = "You can join the game again from the games list page.";
+
+/* No comment provided by engineer. */
+"you will need to verify your number to log in again." = "you will need to verify your number to log in again.";
+
+/* No comment provided by engineer. */
+"Your age does not match the game age range" = "Your age does not match the game age range";
+
+/* No comment provided by engineer. */
+"Your gender does not match the game requirement" = "Your gender does not match the game requirement";
+

@@ -1,0 +1,4 @@
+/* Bundle name */
+"CFBundleName" = "SportMates";
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "The App Need acess to your location ";

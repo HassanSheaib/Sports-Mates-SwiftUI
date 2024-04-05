@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.567140264339-1ovhgpcmseeu54p3o1mllf5a073qhdta</string>
+				<string>fb1115190605792663</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.567140264339-1ovhgpcmseeu54p3o1mllf5a073qhdta</string>
+			</array>
+		</dict>
+		<dict/>
+	</array>
+	<key>FacebookAppID</key>
+	<string>1115190605792663</string>
+	<key>FacebookClientToken</key>
+	<string>250f6aeff6493b0103240cd66f7dd1ec</string>
+	<key>FacebookDisplayName</key>
+	<string>Sports Mates</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>comgooglemaps</string>
+	</array>
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>UIImageName</key>
+		<string>LaunchScreen</string>
+		<key>UIImageRespectsSafeAreaInsets</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

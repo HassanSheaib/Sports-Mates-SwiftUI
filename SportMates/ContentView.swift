@@ -6,16 +6,31 @@
 //
 
 import SwiftUI
+import Firebase
 
 struct ContentView: View {
+    
+ 
+    @State var status = UserDefaults.standard.value(forKey: "status") as? Bool ?? false
+    
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
+        
+
+        VStack{
+            if !status {
+                NavigationView {
+                    LoginScreen()
+                }
+            }else{
+                HomeScreen()
+            }
         }
-        .padding()
+        .onAppear{
+            NotificationCenter.default.addObserver(forName: NSNotification.Name("statusChange"), object: nil, queue: .main) { (_) in
+                let status = UserDefaults.standard.value(forKey: "status") as? Bool ?? false
+                self.status = status
+            }
+        }
     }
 }
 

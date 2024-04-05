@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="SportMates/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="es">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>SportMates</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
+        <source>The App Need acess to your location </source>
+        <note>Privacy - Location When In Use Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="SportMates/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="es">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id=" %lld joined from %lld," xml:space="preserve">
+        <source> %lld joined from %lld,</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@" xml:space="preserve">
+        <source>%@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ Game Info" xml:space="preserve">
+        <source>%@ Game Info</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@, at %@." xml:space="preserve">
+        <source>%@, at %@.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld from %lld, For %@." xml:space="preserve">
+        <source>%lld from %lld, For %@.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld joined from %lld OR %lld," xml:space="preserve">
+        <source>%lld joined from %lld OR %lld,</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld years" xml:space="preserve">
+        <source>%lld years</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Age" xml:space="preserve">
+        <source>Age</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Age %lld -&gt; %lld" xml:space="preserve">
+        <source>Age %lld -&gt; %lld</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Age Not Valid" xml:space="preserve">
+        <source>Age Not Valid</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="All Good " xml:space="preserve">
+        <source>All Good </source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="All game data will be lost!! You can Create a game again from the games screen." xml:space="preserve">
+        <source>All game data will be lost!! You can Create a game again from the games screen.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Already Created Game" xml:space="preserve">
+        <source>Already Created Game</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Available Games" xml:space="preserve">
+        <source>Available Games</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Can't Join Game" xml:space="preserve">
+        <source>Can't Join Game</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cannot Create Game without setting a location!!" xml:space="preserve">
+        <source>Cannot Create Game without setting a location!!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Chat" xml:space="preserve">
+        <source>Chat</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="City" xml:space="preserve">
+        <source>City</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Code" xml:space="preserve">
+        <source>Code</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Country" xml:space="preserve">
+        <source>Country</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Create Game" xml:space="preserve">
+        <source>Create Game</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Day:" xml:space="preserve">
+        <source>Day:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete" xml:space="preserve">
+        <source>Delete</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete Game" xml:space="preserve">
+        <source>Delete Game</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Do not join games that are very late." xml:space="preserve">
+        <source>Do not join games that are very late.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Drag left to delete or leave game" xml:space="preserve">
+        <source>Drag left to delete or leave game</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Duration:" xml:space="preserve">
+        <source>Duration:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Error has occured" xml:space="preserve">
+        <source>Error has occured</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Game Joined" xml:space="preserve">
+        <source>Game Joined</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Game Location" xml:space="preserve">
+        <source>Game Location</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Game Purpose &amp; Players Level" xml:space="preserve">
+        <source>Game Purpose &amp; Players Level</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Game Saved" xml:space="preserve">
+        <source>Game Saved</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Game Time &amp; Date" xml:space="preserve">
+        <source>Game Time &amp; Date</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Game by" xml:space="preserve">
+        <source>Game by</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Game created now wait for other players to join" xml:space="preserve">
+        <source>Game created now wait for other players to join</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Game type and Duration" xml:space="preserve">
+        <source>Game type and Duration</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Game:" xml:space="preserve">
+        <source>Game:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Games" xml:space="preserve">
+        <source>Games</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Games:" xml:space="preserve">
+        <source>Games:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Gender" xml:space="preserve">
+        <source>Gender</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Gender Info" xml:space="preserve">
+        <source>Gender Info</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Gender Matter?" xml:space="preserve">
+        <source>Gender Matter?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Gender Not set" xml:space="preserve">
+        <source>Gender Not set</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Go to settings?" xml:space="preserve">
+        <source>Go to settings?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Gouvernate" xml:space="preserve">
+        <source>Gouvernate</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Guide" xml:space="preserve">
+        <source>Guide</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Hour:" xml:space="preserve">
+        <source>Hour:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="How many player you got" xml:space="preserve">
+        <source>How many player you got</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="I Got %lld" xml:space="preserve">
+        <source>I Got %lld</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Ideal:" xml:space="preserve">
+        <source>Ideal:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="In range:" xml:space="preserve">
+        <source>In range:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Join Game" xml:space="preserve">
+        <source>Join Game</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Join The Game!" xml:space="preserve">
+        <source>Join The Game!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="KM, On:" xml:space="preserve">
+        <source>KM, On:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Leave" xml:space="preserve">
+        <source>Leave</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Leave Game" xml:space="preserve">
+        <source>Leave Game</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Let's GO" xml:space="preserve">
+        <source>Let's GO</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Make sure to check that the game location is a Sports center." xml:space="preserve">
+        <source>Make sure to check that the game location is a Sports center.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Max age:" xml:space="preserve">
+        <source>Max age:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Min age:" xml:space="preserve">
+        <source>Min age:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Min:" xml:space="preserve">
+        <source>Min:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Missing Location!" xml:space="preserve">
+        <source>Missing Location!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="My Games" xml:space="preserve">
+        <source>My Games</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Name" xml:space="preserve">
+        <source>Name</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Name Not Valid" xml:space="preserve">
+        <source>Name Not Valid</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Name Should be at leaset 6 charchter long" xml:space="preserve">
+        <source>Name Should be at leaset 6 charchter long</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Available %@ games" xml:space="preserve">
+        <source>No Available %@ games</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Available Games" xml:space="preserve">
+        <source>No Available Games</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Number Verification" xml:space="preserve">
+        <source>Number Verification</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Number of Players" xml:space="preserve">
+        <source>Number of Players</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OK" xml:space="preserve">
+        <source>OK</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Ok" xml:space="preserve">
+        <source>Ok</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="On Map Location" xml:space="preserve">
+        <source>On Map Location</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Phone Field Empty" xml:space="preserve">
+        <source>Phone Field Empty</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Phone Number" xml:space="preserve">
+        <source>Phone Number</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Players Level:" xml:space="preserve">
+        <source>Players Level:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Players ages" xml:space="preserve">
+        <source>Players ages</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Playing For:" xml:space="preserve">
+        <source>Playing For:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please Enter a phone number" xml:space="preserve">
+        <source>Please Enter a phone number</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please choose your gender" xml:space="preserve">
+        <source>Please choose your gender</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter the 6 digit code you recived" xml:space="preserve">
+        <source>Please enter the 6 digit code you recived</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter your age" xml:space="preserve">
+        <source>Please enter your age</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter your number to verify your account, you will recive an sms shortly." xml:space="preserve">
+        <source>Please enter your number to verify your account, you will recive an sms shortly.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please make sure be there on time!!!" xml:space="preserve">
+        <source>Please make sure be there on time!!!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please make sure to enter a valid name." xml:space="preserve">
+        <source>Please make sure to enter a valid name.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="S p o r t s   M a t e s " xml:space="preserve">
+        <source>S p o r t s   M a t e s </source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Send" xml:space="preserve">
+        <source>Send</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Set Location On Map" xml:space="preserve">
+        <source>Set Location On Map</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sign Out" xml:space="preserve">
+        <source>Sign Out</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The App need access to your current location!!" xml:space="preserve">
+        <source>The App need access to your current location!!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The Game is Full" xml:space="preserve">
+        <source>The Game is Full</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Type here" xml:space="preserve">
+        <source>Type here</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Verify your Number" xml:space="preserve">
+        <source>Verify your Number</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Year of birth" xml:space="preserve">
+        <source>Year of birth</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You Already joined this Game" xml:space="preserve">
+        <source>You Already joined this Game</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You Can Enjoy our app shortly" xml:space="preserve">
+        <source>You Can Enjoy our app shortly</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You already have a game scheduled for %@ you can create game for a different date!!" xml:space="preserve">
+        <source>You already have a game scheduled for %@ you can create game for a different date!!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You are already in A game on %@ " xml:space="preserve">
+        <source>You are already in A game on %@ </source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You can join the game again from the games list page." xml:space="preserve">
+        <source>You can join the game again from the games list page.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your age does not match the game age range" xml:space="preserve">
+        <source>Your age does not match the game age range</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your gender does not match the game requirement" xml:space="preserve">
+        <source>Your gender does not match the game requirement</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="name" xml:space="preserve">
+        <source>name</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="set your Age" xml:space="preserve">
+        <source>set your Age</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="you are not in Any Game Chatroom!!" xml:space="preserve">
+        <source>you are not in Any Game Chatroom!!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="you will need to verify your number to log in again." xml:space="preserve">
+        <source>you will need to verify your number to log in again.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
